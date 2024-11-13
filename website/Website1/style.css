@@ -1,0 +1,95 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.header-class 
+{
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    text-align: end;
+    margin-left: 1450px;
+    padding-top: 20px;
+    
+}
+.header-class a{
+    text-decoration: none;
+    color: chartreuse;
+}
+#h1
+{
+    color: rgb(205, 255, 255);
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 100px;
+}
+#page1-footer{
+    border-top:8px solid brown;
+    background-color: rgb(104, 226, 43);    
+    font-weight: bold;
+    margin-top: 50px;
+    padding: 20px;
+}
+#page1-footer p{
+    text-align: center;
+}
+.p1{
+    text-align: end;
+}
+#table-home
+{
+    
+    border-style: double;
+    font-size: x-large;
+}
+#page2-footer p{
+    text-align: center;
+    background-color: chocolate;
+    padding:25px;
+    border-top:3px solid black;
+}
+th,td{
+    padding: 12px;
+    border: 1px solid green;
+}
+th{
+    background-color: yellow;
+    color: red;
+}
+#main-id a{
+    text-decoration: none;
+    display: flex;
+    color: red;
+    text-align: center;
+    margin-left: 500px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.main-div{
+    display: flex;
+    
+}
+.main-div a{
+    color: blueviolet;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right:20px;
+    
+}
+#h2{
+    color: rgb(128, 0, 0);
+    padding-top: 70px;
+    font-size:50px;
+    
+}
+img{
+    width:50px;
+    height:50px;
+}
